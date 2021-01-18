@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Formular
+</name>
+</assembly>
+<members>
+<member name="T:Formular.My.Resources.Resources">
+<summary>
+  Třída prostředků se silnými typy pro vyhledávání lokalizovaných řetězců atp.
+</summary>
+</member>
+<member name="P:Formular.My.Resources.Resources.ResourceManager">
+<summary>
+  Vrací instanci ResourceManager uloženou v mezipaměti použitou touto třídou.
+</summary>
+</member>
+<member name="P:Formular.My.Resources.Resources.Culture">
+<summary>
+  Potlačí vlastnost CurrentUICulture aktuálního vlákna pro všechna
+  vyhledání prostředků pomocí třídy prostředků se silnými typy.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,13 @@
+C:\Kurs\Formular\bin\Debug\Formular.exe.config
+C:\Kurs\Formular\bin\Debug\Formular.exe
+C:\Kurs\Formular\bin\Debug\Formular.pdb
+C:\Kurs\Formular\bin\Debug\Formular.xml
+C:\Kurs\Formular\obj\Debug\Formular.vbprojAssemblyReference.cache
+C:\Kurs\Formular\obj\Debug\Formular.Resources.resources
+C:\Kurs\Formular\obj\Debug\Formular.vbproj.GenerateResource.cache
+C:\Kurs\Formular\obj\Debug\Formular.vbproj.CoreCompileInputs.cache
+C:\Kurs\Formular\obj\Debug\Formular.exe
+C:\Kurs\Formular\obj\Debug\Formular.xml
+C:\Kurs\Formular\obj\Debug\Formular.pdb
+C:\Kurs\Formular\obj\Debug\Formular.Form1.resources
+C:\Kurs\Formular\obj\Debug\Formular.Form2.resources
